@@ -17,7 +17,7 @@ Many variants of photogrammetry exist. Extraction of three-dimensional measureme
 
 Though digital representations have been constructed using various mixtures of specialized hardware, software and domain experts, the need for futher sophistication has not abated. In this project, I survey the field of photogrammetry, provide some examples of exitant and old technologies, and review the research going on in the field.
 
-### Some Applications 
+### Applications & Research
 
 Photogrammetry has vast applications in the fields of medicine, engineering, mapping, architecture, manufacturing, police investigation, cultural heritage, structural geology, real estate, film & entertainment, land surverying, etc. 
 A common use is creating maps out of aerial photos, proven to be  accurate and cost-effective. Photogrammetry is being used in startups using the these maps to use AI to obtain information about the world, for example population densities, deforestation, etc. Photogrammetry has a cardinal advantage over a similar technology, LIDAR, that it is very cost effective, since it only requires images. 
