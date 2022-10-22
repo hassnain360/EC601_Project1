@@ -13,6 +13,8 @@ Photogrammetry refers to obtaining reliable information about physical objects a
 
 Obtaining digital representations of the physical world is an important computational challenge. The aim is to obtain digital representations as close to the reality as possible. This can include the dimensions, surface, texture, area, and other qualities of the subject. Naturally, constraints exist, over the hardware used to capture information from the world, as well as the software technqiues available to render the data to the required format as per the required use case.
 
+Many variants of photogrammetry exist. Extraction of three-dimensional measurements from two-dimensional data (i.e. images) is one example. Some calcuations can be made to find out dimensions of objects in real world if some standard scale is arleady set. Photogrammetry can also be reffered to extracting accurate color ranges and values representing such quantities as albedo, specular reflection, metallicity, or ambient occlusion from photographs of materials for the purposes of physically based rendering. 
+
 Though digital representations have been constructed using various mixtures of specialized hardware, software and domain experts, the need for futher sophistication has not abated. In this project, I survey the field of photogrammetry, provide some examples of exitant and old technologies, and review the research going on in the field.
 
 ### Some Applications 
@@ -35,7 +37,7 @@ Other power aerial photogrammetry mapping platforms include `BAE Systems SOCETSE
 
 ### Conclusion
 
-In th
+The field of photogrammetry is vast. We can looked at some common modalities, softwares, and use cases where photogrammetry is used. With the advent of AI, so much more is being done using photogrammetry; one exellent example is using photogrammetry to build virtual worlds, aka. 'the Meta-verse'. We will see more sophiscated softwares, standards and use-cases as the field progress alongside other booming technologies. 
 
 
 ### Resources
