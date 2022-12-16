@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Photogrammetry refers broadly to the process of obtaining reliable information about the physical world in a computational form. Such information is essential to model the world around us, and this modelling finds applications in a vast amount of scientific fields. In photogrammetry, data is gathered from raw sources using light, electromagnetic radiation, sound waves, and other physical phenomenon, and then processed on a computer to obtain information about physical objects, landscapes, motion fields, etc. Seminal in many of today's tools and technologies that enable our world today, photogrammetry combines the fields of optics, projective geometry, software engineering, electromagnetic field theory, among others. Most technology industries in the modern age either rely directly  on photogrammetry or somehow benefit from ti. 
+Photogrammetry refers broadly to the process of obtaining reliable information about the physical world in a computational form. Such information is essential to model the world around us, and this modelling finds applications in a vast amount of scientific fields. In photogrammetry, data is gathered from raw sources using light, electromagnetic radiation, sound waves, and other physical phenomenon, and then processed on a computer to obtain information about physical objects, landscapes, motion fields, etc. Seminal in many of today's tools and technologies that enable our world today, photogrammetry combines the fields of optics, projective geometry, software engineering, electromagnetic field theory, among others. Most technology industries in the modern age either rely directly  on photogrammetry or somehow benefit from it.
 
 ### History of the Field
 
