@@ -6,7 +6,18 @@
 
 ### Introduction
 
-Photogrammetry refers to obtaining reliable information about physical objects and the world around us in a compuational form. Many varients exist, depending on the use case. It combienes the fields of optics, projective geometry, software engineering, etc. One form of photogrammetry is '3-D' modelling, where it refers to making 3-D models of objects, typicalling using simple 2-D images obtained from cameras. Other varients exist, for example using high speed cameras flying on drones, sometimes called Ariel photogrammetry. Another form is terrestial photogrammetry, where the cameras are fixed. This can be a camera trying to measure the speed of cars on the road. 
+Photogrammetry refers broadly to the process of obtaining reliable information about the physical world in a computational form. Such information is essential to model the world around us, and this modelling finds applications in a vast amount of scientific fields. In photogrammetry, data is gathered from raw sources using light, electromagnetic radiation, sound waves, and other physical phenomenon, and then processed on a computer to obtain information about physical objects, landscapes, motion fields, etc. Seminal in many of today's tools and technologies that enable our world today, photogrammetry combines the fields of optics, projective geometry, software engineering, electromagnetic field theory, among others. Most technology industries either rely on photogrammetry or som
+
+### History of the Field
+
+### Types of Photogrammetry
+
+Photogrammetry can refer to a variety of processes which gather information about the physical world.
+
+The canonical form of photogrammetry is 3-D modelling: making 3-D models of objects, typically using simple 2-D images obtained from cameras. These images can be from any source that is shifted around to take images of the object from different angles. After the retrival of multiple pictures of the object from different angles, these images are then passed to a photogrammetry software which calculates geometric information about the object and constructs a 3-D model of that object. 
+
+ calculates Other varients exist, for example using high speed cameras flying on drones, sometimes called Ariel photogrammetry. Another form is terrestial photogrammetry, where the cameras are fixed. This can be a camera trying to measure the speed of cars on the road. 
+
 
 
 ### Problem Statement
@@ -19,15 +30,22 @@ Though digital representations have been constructed using various mixtures of s
 
 ### Applications & Research
 
-Photogrammetry has vast applications in the fields of medicine, engineering, mapping, architecture, manufacturing, police investigation, cultural heritage, structural geology, real estate, film & entertainment, land surverying, etc. 
-A common use is creating maps out of aerial photos, proven to be  accurate and cost-effective. Photogrammetry is being used in startups using the these maps to use AI to obtain information about the world, for example population densities, deforestation, etc. Photogrammetry has a cardinal advantage over a similar technology, LIDAR, that it is very cost effective, since it only requires images. 
+Photogrammetry has vast applications in the fields of medicine, engineering, mapping, architecture, manufacturing, police investigation, cultural heritage, structural geology, real estate, film & entertainment, land surverying, etc. We will look at some of them below.
+
+Photogrammetry performed to obtain 3-D models of physical world objects are indispensible in today's world: such models can easily be used in AR/VR settings, games, and other artificial settings like driving simulation programs. 3-D models of ancient artifacts are also obtained using photogrammetry for their preservation and remote view access throughout the world. 
+
+
+
+Ariel photogrammetry is the de-facto method to obtain maps -- proven to be  accurate and cost-effective. Photogrammetry has a cardinal advantage over a similar technology, LIDAR, that it is very cost effective, since it only requires images. 
 
 
 A very common use is creation of maps using aerial photogrammetry . Google maps has an enormous use-base, and is an important use-case of photogrammetry.  To create such maps, the camera is mounted in an aircraft and is pointed vertically towards the ground. en As the aircraft flies, multiple images of the ground are taken. The aircraft traditionally have been fixed wing manned craft but many projects now are done with drones and UAVs. Traditionally these photos were processed in a stereo-plotter (an instrument that lets an operator see two photos at once in a stereo view) but now are often processed by automated desktop systems. This is an example of evolution and necessity of photogrammetry in making real world accessible to us in our digital devices. 
 
-### Open Source Research
+### Research Directions, Industry Innovations & More ...
 
 Due to its ubiquity, there is a blooming open source community on photogrammetry. Softwares like AliceVision, All3dp, Meshroom, Colmap, Micmap are used for various photogrammetry purposes. 
+
+ Photogrammetry is being used in startups using the these maps to use AI to obtain information about the world, for example population densities, deforestation, etc.
 
 
 Other products with commerical support for General Applications include `Context Capture & Acute 3D`, `PhotoModeler` ,  `PhotoScan`,  `Pix4dMapper` , `Reality Capture`, `Recapn addition`. `DataMapper` &  `DroneDeploy` are  more specifically aimed at just UAV / drone photograhy and are cloud based.     
