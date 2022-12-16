@@ -11,11 +11,12 @@ Photogrammetry refers broadly to the process of obtaining reliable information a
 
 ### Problem Statement
 
-Obtaining digital representations of the physical world is an important computational challenge. The aim is to obtain digital representations as close to the reality as possible. This can include the dimensions, surface, texture, area, lighting, and other qualities of the subject. Naturally, constraints exist, over the hardware used to capture information from the world, as well as the software technqiues available to render the data to the required format as per the required use case.
+Obtaining digital representations of the physical world is an important computational challenge. The aim is to obtain digital representations as close to the reality as possible. This can include the dimensions, surface, texture, area, lighting, and other qualities of the subject. Naturally, constraints exist, over the hardware used to capture information from the world, as well as the software techniques available to render the data to the required format as per the required use case.
 
-Many variants of photogrammetry exist. Extraction of three-dimensional measurements from two-dimensional data (i.e. images) is one example. Some calcuations can be made to find out dimensions of objects in real world if some standard scale is arleady set. Photogrammetry can also be referred to extracting accurate color ranges and values representing such quantities as albedo, specular reflection, metallicity, or ambient occlusion from photographs of materials for the purposes of physically based rendering. 
+Many variants of photogrammetry exist. Extraction of three-dimensional measurements from two-dimensional data (i.e. images) is one example. Some calcuations can be made to find out dimensions of objects in real world if some standard scale is arleady set. Photogrammetry can also be referred to extracting accurate color ranges and values representing such quantities as albedo, specular reflection, metallicity, or ambient occlusion from photographs of materials for the purposes of physically based rendering. The measurement of these properties is required in physically based rendering.
 
-Though digital representations have been constructed using various mixtures of specialized hardware, software and domain experts, the need for futher sophistication has not abated. In this project, I survey the field of photogrammetry, provide some examples of exitant and old technologies, and review the research going on in the field.
+Though digital representations have been constructed using various mixtures of specialized hardware, software and domain experts, the need for futher sophistication has not abated. Therefore, research still continues on obtaining better, more energy efficient and more accurate methods of obtaining digital models. These methods are equipment are installed in mobile phones too, for example, the IPhone now carries an LIDAR sensor inside it, that can be used to obtain 3-D model of an object nearby. 
+
 
 ### History of the Field
 
@@ -51,10 +52,7 @@ Use cases of photogrammetry include construction of planimetric and topographic 
 
 Photogrammetry performed to obtain 3-D models of physical world objects are indispensible in today's world: such models can easily be used in AR/VR settings, games, and other artificial settings like driving simulation programs. 3-D models of ancient artifacts are also obtained using photogrammetry for their preservation and remote view access throughout the world. 
 
-Ariel photogrammetry is the de-facto method to obtain maps -- proven to be  accurate and cost-effective. Photogrammetry has a cardinal advantage over a similar technology, LIDAR, that it is very cost effective, since it only requires images. 
-
-
-A very common use is creation of maps using aerial photogrammetry . Google maps has an enormous use-base, and is an important use-case of photogrammetry.  To create such maps, the camera is mounted in an aircraft and is pointed vertically towards the ground. en As the aircraft flies, multiple images of the ground are taken. The aircraft traditionally have been fixed wing manned craft but many projects now are done with drones and UAVs. Traditionally these photos were processed in a stereo-plotter (an instrument that lets an operator see two photos at once in a stereo view) but now are often processed by automated desktop systems. This is an example of evolution and necessity of photogrammetry in making real world accessible to us in our digital devices. 
+Ariel photogrammetry is the de-facto method to obtain maps -- proven to be  accurate and cost-effective. Tradional photogrammetry has a cardinal advantage over a similar technology, LIDAR, that it is very cost effective, since it only requires images. Google maps has an enormous use-base, and is an important use-case of photogrammetry.  To create such maps, the camera is mounted in an aircraft and is pointed vertically towards the ground. en As the aircraft flies, multiple images of the ground are taken. The aircraft traditionally have been fixed wing manned craft but many projects now are done with drones and UAVs. Traditionally these photos were processed in a stereo-plotter (an instrument that lets an operator see two photos at once in a stereo view) but now are often processed by automated desktop systems. This is an example of evolution and necessity of photogrammetry in making real world accessible to us in our digital devices. 
 
 ### Research Directions, Industry Innovations & More ...
 
